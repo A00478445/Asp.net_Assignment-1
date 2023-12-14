@@ -1,0 +1,17 @@
+{
+  "version": 2,
+  "dgSpecHash": "v6njUGvLkqlPNq8t/Uru2hP1QkAIAbabpYU7rUxmYZA6eecpn6/mNlC8709SCzP4u5T8yzCVijYcqqgz43hZ4g==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\asus\\Desktop\\ASP.net-Assignment-1\\ProgAssign1.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\asus\\.nuget\\packages\\csvhelper\\30.0.1\\csvhelper.30.0.1.nupkg.sha512",
+    "C:\\Users\\asus\\.nuget\\packages\\serilog\\3.1.0-dev-02083\\serilog.3.1.0-dev-02083.nupkg.sha512",
+    "C:\\Users\\asus\\.nuget\\packages\\serilog.sinks.console\\5.0.0-dev-00923\\serilog.sinks.console.5.0.0-dev-00923.nupkg.sha512",
+    "C:\\Users\\asus\\.nuget\\packages\\serilog.sinks.file\\5.0.1-dev-00968\\serilog.sinks.file.5.0.1-dev-00968.nupkg.sha512",
+    "C:\\Users\\asus\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\7.0.14\\microsoft.windowsdesktop.app.ref.7.0.14.nupkg.sha512",
+    "C:\\Users\\asus\\.nuget\\packages\\microsoft.netcore.app.ref\\7.0.14\\microsoft.netcore.app.ref.7.0.14.nupkg.sha512",
+    "C:\\Users\\asus\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\7.0.14\\microsoft.aspnetcore.app.ref.7.0.14.nupkg.sha512",
+    "C:\\Users\\asus\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\7.0.14\\microsoft.netcore.app.host.win-x64.7.0.14.nupkg.sha512"
+  ],
+  "logs": []
+}
